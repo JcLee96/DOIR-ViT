@@ -1,4 +1,4 @@
-# ICCV_2023_CVAMD [Order-ViT]
+# DIOR-ViT
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-![Order-ViT](/new_model.png)
+![DIOR-ViT](/new_model.png)
 
 The overall model architecture is as follows. Categorical classification and sequential relationship classification problems are performed simultaneously.
 
