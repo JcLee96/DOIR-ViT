@@ -9,7 +9,7 @@
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
 <a href="https://github.com/ashleve/lightning-hydra-template"><img alt="Template" src="https://img.shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=gray"></a><br>
 [![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://www.nature.com/articles/nature14539)
-[![Conference](http://img.shields.io/badge/ICCV(Workshoh)_CVAMD_Conference-2023-4b44ce.svg)](https://cvamd2023.github.io/)
+[![Conference](http://img.shields.io/badge/_Conference-2023-4b44ce.svg)](https://cvamd2023.github.io/)
 
 </div>
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 /src: data load and augmentation, model code
 ```
  
-## How to training for Only Categorical classification and Order-learning
+## How to training for DIOR-ViT
 ```
 ## Only Categorical classification and DIOR-ViT
 # model.name = timm model name & ../train_test: Code for validating different datasets using the best model
