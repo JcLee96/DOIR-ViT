@@ -15,7 +15,7 @@
 
 ## Description
 
-![DIOR-ViT](/new_model.png)
+![DIOR-ViT](/DIOR-ViT_Model.png)
 
 The overall model architecture is as follows. Categorical classification and sequential relationship classification problems are performed simultaneously.
 
