@@ -1,0 +1,10 @@
+_target_: src.datamodules.ubc_datamodule.UbcDataModule
+
+data_dir: ${data_dir} # data_dir is specified in config.yaml
+batch_size: 4
+num_workers: 0
+pin_memory: True
+img_size: 512
+drop_last: False
+data_name: 'ubc'
+data_ratio: 1.0

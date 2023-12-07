@@ -1,0 +1,27 @@
+_target_: src.models.classifyregression_module.ClassifyregressionLitModule
+
+name: vit_base_r50_s16_384
+# resnet50 or vit_large_r50_s32_384 or efficientnet_b0 or vit_base_r50_s16_384
+lr: 1.0e-4
+weight_decay: 0.0005
+t_max: 10
+min_lr: 1e-6
+T_0: 20
+T_mult: 1
+threshold: 0.1
+eta_min: 1e-5
+pretrained: True
+scheduler: 'CosineAnnealingLR'
+factor: 0.5
+patience: 3
+eps: 1e-8
+loss_weight: 6.5
+module_type: 'classifyregression'
+implementation_model: False
+regression_loss: "exp_base"
+regression_loss_type: 'exp_base'
+feature_extraction_method: "sub"
+regression_loss_weight: 1.0e-5
+exp_type: "each"
+berhu_para: 0.2
+class_cnt: 4
