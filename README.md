@@ -36,7 +36,7 @@ All the models in this project were evaluated on the following datasets:
 Install dependencies
 
 ```bash
-
+git clone https://github.com/JcLee96/DOIR-ViT.git
 
 # [OPTIONAL] create conda environment
 conda create --name [이름] python=3.
