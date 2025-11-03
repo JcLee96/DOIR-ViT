@@ -9,7 +9,7 @@
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
 <a href="https://github.com/ashleve/lightning-hydra-template"><img alt="Template" src="https://img.shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=gray"></a><br>
 [![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://www.sciencedirect.com/science/article/pii/S1361841525002555)
-[![journal](https://www.sciencedirect.com/search?qs=DIOR-ViT&pub=Medical+Image+Analysis&cid=272154)]
+[![journal](https://img.shields.io/badge/Journal-Medical%20Image%20Analysis-blue)](https://www.sciencedirect.com/search?qs=DIOR-ViT&pub=Medical+Image+Analysis&cid=272154)
 </div>
 
 ## Description
