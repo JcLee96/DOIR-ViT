@@ -38,8 +38,8 @@ Install dependencies
 git clone https://github.com/JcLee96/DOIR-ViT.git
 
 # [OPTIONAL] create conda environment
-conda create --name [이름] python=3.
-conda activate [이름]
+conda create --name [doir_env] python=3.
+conda activate [doir_env]
 conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 
 pip install -r requirements.txt
